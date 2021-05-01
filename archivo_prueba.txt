@@ -1,2 +1,4 @@
 Este es un archivo para probar
 todo el contenido de git.
+
+yo sería escritor mágico
